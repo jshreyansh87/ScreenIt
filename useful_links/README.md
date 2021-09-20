@@ -12,5 +12,5 @@
 ## tools
 - <a href="https://pypi.org/project/pytesseract/">tool to recognize and “read” the text embedded in images.</a>
 
-## :point_up_2: keep updating the it
+## :point_up_2: keep updating it
 
