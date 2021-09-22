@@ -1,3 +1,16 @@
+## Dataset
+- List of top 2000 companies for a particular job description
+- Collection of multiple resume for each job
+
+## Features to score Resumes
+- Skill Set
+- Past Experience Job name and organization
+- Duration of Past Experience
+- Job Done or responsibilities in past experience
+- Certification
+- College Name, Ranking (Fresher)
+- Self Projects (Fresher)
+
 ## YouTube links
 - <a href="https://www.youtube.com/watch?v=p3SKx5C04qg&t=4s&ab_channel=SirajRaval">AI your Resume</a>
 - <a href="https://www.youtube.com/watch?v=HJy11kOlgvk&ab_channel=KGPTalkie">CV and Resume Parsing with Custom NER Training with SpaCy</a>
