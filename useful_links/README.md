@@ -21,6 +21,7 @@
 ## Datasets
 - <a href="https://www.kaggle.com/gauravduttakiit/resume-dataset">Resume Dataset | Kaggle</a>
 - <a href="https://data.world/peopledatalabs/similar-skills-28935-unique-skills">job title + required skills</a>
+- list of top 2000 different companies ( dataset/forbes-global-2000 )
 
 ## tools
 - <a href="https://pypi.org/project/pytesseract/">tool to recognize and “read” the text embedded in images.</a>
