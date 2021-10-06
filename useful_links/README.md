@@ -1,4 +1,4 @@
-## Dataset
+## Dataset Requirements
 - List of top 2000 companies for a particular job description
 - Collection of multiple resume for each job
 
@@ -10,6 +10,10 @@
 - Certification
 - College Name, Ranking (Fresher)
 - Self Projects (Fresher)
+
+## Documentation and Websites
+- <a href="https://www.textkernel.com/newsroom/the-challenges-behind-parsing-matching-cvs-and-jobs/">The challenges behind parsing & matching CVs and jobs</a>
+- <a href="https://dzone.com/articles/cv-r-cvs-retrieval-system-based-on-job-description">Using Machine Learning to Retrieve Relevant CVs Based on Job Description</a>
 
 ## YouTube links
 - <a href="https://www.youtube.com/watch?v=p3SKx5C04qg&t=4s&ab_channel=SirajRaval">AI your Resume</a>
