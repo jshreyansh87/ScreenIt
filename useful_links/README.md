@@ -1,4 +1,8 @@
-## Dataset Requirements
+## TODO
+- extract section-wise heading and paragraph
+
+## Dataset
+- <a href="https://www.postjobfree.com/search-resumes">publically available resumes</a>
 - List of top 2000 companies for a particular job description
 - Collection of multiple resume for each job
 
@@ -16,6 +20,7 @@
 - <a href="https://dzone.com/articles/cv-r-cvs-retrieval-system-based-on-job-description">Using Machine Learning to Retrieve Relevant CVs Based on Job Description</a>
 
 ## YouTube links
+- <a href="https://www.youtube.com/watch?v=Nv3TqzT2RLI&t=456s">custom npl entity recognition using spacy</a>
 - <a href="https://www.youtube.com/watch?v=p3SKx5C04qg&t=4s&ab_channel=SirajRaval">AI your Resume</a>
 - <a href="https://www.youtube.com/watch?v=HJy11kOlgvk&ab_channel=KGPTalkie">CV and Resume Parsing with Custom NER Training with SpaCy</a>
 
@@ -25,6 +30,7 @@
 ## Datasets
 - <a href="https://www.kaggle.com/gauravduttakiit/resume-dataset">Resume Dataset | Kaggle</a>
 - <a href="https://data.world/peopledatalabs/similar-skills-28935-unique-skills">job title + required skills</a>
+- list of top 2000 different companies ( dataset/forbes-global-2000 )
 
 ## tools
 - <a href="https://pypi.org/project/pytesseract/">tool to recognize and “read” the text embedded in images.</a>
