@@ -1,1 +1,8 @@
 dataset/Resume&Job_Description
+test
+dataset
+__pycache__
+model.ipynb
+parser.ipynb
+trained_model_old
+.DS_Store
