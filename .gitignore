@@ -1,6 +1,7 @@
 dataset/Resume&Job_Description
 test
 dataset
+meta_data
 __pycache__
 model.ipynb
 parser.ipynb
