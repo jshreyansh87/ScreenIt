@@ -20,14 +20,16 @@
 
     ],
     "ner":[
-      "College Name",
-      "Companies worked at",
-      "Degree",
-      "Designation",
-      "Graduation Year",
-      "Location",
-      "Skills",
-      "Years of Experience"
+      "certification",
+      "collage name",
+      "companies worked at",
+      "designation",
+      "email",
+      "experience duration",
+      "name",
+      "skill",
+      "total experience",
+      "wins"
     ]
   },
   "pipeline":[
@@ -42,52 +44,62 @@
 
   ],
   "performance":{
-    "ents_f":0.9647172547,
-    "ents_p":0.9727095517,
-    "ents_r":0.9568552253,
+    "ents_f":0.9706916764,
+    "ents_p":0.957779063,
+    "ents_r":0.9839572193,
     "ents_per_type":{
-      "Location":{
-        "p":0.9402985075,
-        "r":0.9603658537,
-        "f":0.9502262443
-      },
-      "Companies worked at":{
-        "p":0.984984985,
-        "r":0.984984985,
-        "f":0.984984985
-      },
-      "Graduation Year":{
-        "p":0.9813664596,
-        "r":0.9132947977,
-        "f":0.9461077844
-      },
-      "Degree":{
+      "name":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "Skills":{
-        "p":1.0,
-        "r":0.9185185185,
-        "f":0.9575289575
+      "designation":{
+        "p":0.9163636364,
+        "r":1.0,
+        "f":0.9563567362
       },
-      "Designation":{
-        "p":1.0,
-        "r":0.9705882353,
-        "f":0.9850746269
+      "email":{
+        "p":0.9393939394,
+        "r":0.9893617021,
+        "f":0.9637305699
       },
-      "College Name":{
+      "total experience":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "Years of Experience":{
+      "companies worked at":{
+        "p":0.9666666667,
+        "r":0.9902439024,
+        "f":0.978313253
+      },
+      "experience duration":{
+        "p":0.9852216749,
+        "r":0.9852216749,
+        "f":0.9852216749
+      },
+      "skill":{
+        "p":0.9523099851,
+        "r":0.9726027397,
+        "f":0.9623493976
+      },
+      "collage name":{
+        "p":0.9891304348,
+        "r":1.0,
+        "f":0.9945355191
+      },
+      "certification":{
         "p":1.0,
         "r":1.0,
         "f":1.0
+      },
+      "wins":{
+        "p":0.9736842105,
+        "r":0.925,
+        "f":0.9487179487
       }
     },
-    "tok2vec_loss":2896.5817417746,
-    "ner_loss":265.6747752515
+    "tok2vec_loss":5169.3669778576,
+    "ner_loss":818.8932793906
   }
 }

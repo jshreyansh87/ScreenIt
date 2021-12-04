@@ -20,14 +20,16 @@
 
     ],
     "ner":[
-      "College Name",
-      "Companies worked at",
-      "Degree",
-      "Designation",
-      "Graduation Year",
-      "Location",
-      "Skills",
-      "Years of Experience"
+      "certification",
+      "collage name",
+      "companies worked at",
+      "designation",
+      "email",
+      "experience duration",
+      "name",
+      "skill",
+      "total experience",
+      "wins"
     ]
   },
   "pipeline":[
@@ -42,52 +44,62 @@
 
   ],
   "performance":{
-    "ents_f":0.9656507015,
-    "ents_p":0.974609375,
-    "ents_r":0.9568552253,
+    "ents_f":0.9707088459,
+    "ents_p":0.9572501444,
+    "ents_r":0.9845513963,
     "ents_per_type":{
-      "Location":{
-        "p":0.9510703364,
-        "r":0.9481707317,
-        "f":0.9496183206
-      },
-      "Companies worked at":{
-        "p":1.0,
-        "r":0.975975976,
-        "f":0.9878419453
-      },
-      "Graduation Year":{
-        "p":0.9425287356,
-        "r":0.9479768786,
-        "f":0.9452449568
-      },
-      "Degree":{
+      "name":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "Skills":{
-        "p":1.0,
-        "r":0.9259259259,
-        "f":0.9615384615
+      "designation":{
+        "p":0.9163636364,
+        "r":1.0,
+        "f":0.9563567362
       },
-      "Designation":{
-        "p":1.0,
-        "r":0.9705882353,
-        "f":0.9850746269
+      "email":{
+        "p":0.9775280899,
+        "r":0.9255319149,
+        "f":0.9508196721
       },
-      "College Name":{
+      "total experience":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
-      "Years of Experience":{
+      "companies worked at":{
+        "p":0.9666666667,
+        "r":0.9902439024,
+        "f":0.978313253
+      },
+      "experience duration":{
+        "p":0.971291866,
+        "r":1.0,
+        "f":0.9854368932
+      },
+      "skill":{
+        "p":0.949704142,
+        "r":0.9771689498,
+        "f":0.9632408102
+      },
+      "collage name":{
+        "p":0.9891304348,
+        "r":1.0,
+        "f":0.9945355191
+      },
+      "certification":{
         "p":1.0,
         "r":1.0,
         "f":1.0
+      },
+      "wins":{
+        "p":0.9743589744,
+        "r":0.95,
+        "f":0.9620253165
       }
     },
-    "tok2vec_loss":2496.9580441142,
-    "ner_loss":284.8205645975
+    "tok2vec_loss":4606.5511457949,
+    "ner_loss":676.0291154592
   }
 }
